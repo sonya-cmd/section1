@@ -50,8 +50,6 @@ Learn difference: npm vs yarn
 Create project:
 
 bash
-Копировать
-Редактировать
 npx create-react-app monsters-rolodex
 Don’t use eject (avoid complexity)
 
