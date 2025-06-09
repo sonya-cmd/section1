@@ -88,3 +88,10 @@ Tasks:
 Create custom hook (e.g. useProducts)
 
 Optimize with useMemo, useCallback, React.memo
+
+🔍 Chapters 42–43 — Filtering Logic
+Tasks:
+
+Implement filtering by name, category, or price
+
+Store original data to reset filters
