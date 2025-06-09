@@ -132,3 +132,9 @@ Tasks:
 Convert class components to functional components
 
 Replace lifecycle logic with hooks
+🧠 Chapters 57–60 — Hooks + Pure Functions
+Tasks:
+
+Use useState properly
+
+Apply pure function principles for reusable logic
