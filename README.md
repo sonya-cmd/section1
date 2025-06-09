@@ -42,30 +42,22 @@ Staying updated through newsletters and community posts is key. The React ecosys
 
 ## Section 3: React Basics
 
-🔧 Sections 15–24 — Setup
-Configure VSCode, fonts, extensions
+🔧 Chapters 15–24 — Project Setup
+Tasks:
 
-Learn difference: npm vs yarn
+Configure VSCode (extensions, fonts)
 
-Create project:
+Understand the difference: npm vs yarn
+
+Create project using:
 
 bash
 npx create-react-app monsters-rolodex
-Don’t use eject (avoid complexity)
+Avoid using eject
 
-⚛️ Sections 26–27 — React Basics
-Difference between Class vs Functional Components
+⚛️ Chapters 26–27 — React Fundamentals
+Tasks:
 
-React.StrictMode helps catch issues in development
+Learn difference: Class vs Functional Components
 
-👾 Sections 28–35 — Monsters Rolodex Project
-28: Create App as a class component
-
-29–30: Use this.state and this.setState(...)
-
-31: Understand shallow merge in setState
-
-32: Use setState(..., callback) for post-update actions
-
-33–35: Render monsters with .map() and include key={id}
-
+Understand React.StrictMode for development warnings
