@@ -81,3 +81,10 @@ Tasks:
 Use React.lazy and Suspense for code splitting
 
 Add fallback loading components
+
+🧩 Chapters 39–41 — Custom Hooks & Optimization
+Tasks:
+
+Create custom hook (e.g. useProducts)
+
+Optimize with useMemo, useCallback, React.memo
