@@ -61,3 +61,23 @@ Tasks:
 Learn difference: Class vs Functional Components
 
 Understand React.StrictMode for development warnings
+
+👾 Chapters 28–35 — Monsters Rolodex (Basics)
+Tasks:
+
+Create App as a class component
+
+Use this.state and this.setState(...)
+
+Understand shallow merge in setState
+
+Use setState(..., callback) for post-update logic
+
+Render monster list with .map() and key={id}
+
+⏬ Chapters 37–38 — Lazy Loading & Suspense
+Tasks:
+
+Use React.lazy and Suspense for code splitting
+
+Add fallback loading components
