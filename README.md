@@ -109,3 +109,11 @@ Tasks:
 Build and connect SearchBox component
 
 Use controlled inputs and avoid unnecessary re-renders
+
+🎨 Chapter 50 — Styling with Styled-Components
+Tasks:
+
+Migrate all styles to styled-components
+
+Ensure responsiveness and consistency
+
