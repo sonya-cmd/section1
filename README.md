@@ -95,3 +95,10 @@ Tasks:
 Implement filtering by name, category, or price
 
 Store original data to reset filters
+
+🧱 Chapters 44–45 — Component Structure
+Tasks:
+
+Refactor CardList, ItemCard, and props
+
+Improve component structure and separation
