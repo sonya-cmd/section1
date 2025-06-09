@@ -125,3 +125,10 @@ Polish UI (spacing, alignment, polish)
 Add animation if needed
 
 Fix minor bugs and UX issues
+
+🔄 Chapters 54–56 — Class to Functional Migration
+Tasks:
+
+Convert class components to functional components
+
+Replace lifecycle logic with hooks
