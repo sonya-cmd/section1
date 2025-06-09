@@ -102,3 +102,10 @@ Tasks:
 Refactor CardList, ItemCard, and props
 
 Improve component structure and separation
+
+🔎 Chapters 46–49 — Props, Re-renders, SearchBox
+Tasks:
+
+Build and connect SearchBox component
+
+Use controlled inputs and avoid unnecessary re-renders
